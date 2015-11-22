@@ -3,6 +3,11 @@ pages:
 - 首页: index.md
 - 文档:
     - '我为什么要诞生': 'docs/why-am-I.md'
+- topline[flask]:
+    - '做个啥呢': 'topline/what.md'
+- growtree[go]:
+    - '这是啥': 'growtree/what.md'
+    - '开发日记（一）': 'growtree/1.md'
 theme: flatly
 repo_url: https://github.com/sctlee/develop-notebook
 repo_name: develop-notebook
