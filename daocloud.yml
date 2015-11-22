@@ -1,4 +1,4 @@
-image: daocloud.io/sctlee/develop-notebook:master-98a2bb5
+image: sctlee/nginx-mkdocs
 env:
     - MYENV = "hello"
 
