@@ -1,0 +1,8 @@
+site_name: OpenWrt.io
+pages:
+- 首页: index.md
+- 文档:
+    - '我为什么要诞生': 'docs/why-am-I.md'
+theme: flatly
+repo_url: https://github.com/sctlee/develop-notebook
+repo_name: develop-notebook
