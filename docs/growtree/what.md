@@ -7,4 +7,5 @@ tcpx是对tcp的一层封装，用于实现高并发的tcp server。
 
 ## tcpx_example
 这是网游框架的源码，初步框架图如下图所示：
+
 ![growtree初步设计图](../images/growtree-original-design.png)
