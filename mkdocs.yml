@@ -8,6 +8,7 @@ pages:
 - growtree[go]:
     - '这是啥': 'growtree/what.md'
     - '开发日记（一）': 'growtree/1.md'
+    - '开发日记（二）': 'growtree/2.md'
 theme: flatly
 repo_url: https://github.com/sctlee/develop-notebook
 repo_name: develop-notebook
