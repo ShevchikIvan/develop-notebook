@@ -5,10 +5,11 @@ pages:
     - '我为什么要诞生': 'docs/why-am-I.md'
 - topline[flask]:
     - '做个啥呢': 'topline/what.md'
-- growtree[go]:
-    - '这是啥': 'growtree/what.md'
-    - '开发日记（一）': 'growtree/1.md'
-    - '开发日记（二）': 'growtree/2.md'
+- hazel[go]:
+    - '这是啥': 'hazel/what.md'
+    - '开发日记（一）': 'hazel/1.md'
+    - '开发日记（二）': 'hazel/2.md'
+    - '开发日记（三）': 'hazel/3.md'
 theme: flatly
 repo_url: https://github.com/sctlee/develop-notebook
 repo_name: develop-notebook
