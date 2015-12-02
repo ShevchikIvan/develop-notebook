@@ -3,6 +3,7 @@ pages:
 - 首页: index.md
 - 文档:
     - '我为什么要诞生': 'docs/why-am-I.md'
+    - '我为什么还在这': 'docs/why-I-still-be-here.md'
 - topline[flask]:
     - '做个啥呢': 'singledog/what.md'
     - '开发日记（一）': 'singledog/1.md'
