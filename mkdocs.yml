@@ -6,12 +6,11 @@ pages:
 - topline[flask]:
     - '做个啥呢': 'singledog/what.md'
     - '开发日记（一）': 'singledog/1.md'
-- golang:
-    - hazel[go]:
-        - '这是啥': 'hazel/what.md'
-        - '开发日记（一）': 'hazel/1.md'
-        - '开发日记（二）': 'hazel/2.md'
-        - '开发日记（三）': 'hazel/3.md'
+- hazel[go]:
+    - '这是啥': 'hazel/what.md'
+    - '开发日记（一）': 'hazel/1.md'
+    - '开发日记（二）': 'hazel/2.md'
+    - '开发日记（三）': 'hazel/3.md'
 theme: flatly
 repo_url: https://github.com/sctlee/develop-notebook
 repo_name: develop-notebook
