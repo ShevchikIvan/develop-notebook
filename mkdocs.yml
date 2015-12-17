@@ -14,6 +14,8 @@ pages:
     - '开发日记（三）': 'hazel/3.md'
 - borg阅读笔记:
     - 'borg(一)': 'learning_container/borg-1.md'
+- 分布式一致性算法:
+    - 'Raft': 'distributed_consensus_protocol/raft-1.md'
 theme: flatly
 repo_url: https://github.com/sctlee/develop-notebook
 repo_name: develop-notebook
