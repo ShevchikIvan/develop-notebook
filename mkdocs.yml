@@ -12,10 +12,15 @@ pages:
     - '开发日记（一）': 'hazel/1.md'
     - '开发日记（二）': 'hazel/2.md'
     - '开发日记（三）': 'hazel/3.md'
+- Kubernetes学习:
+    - '学习笔记（一）': 'kubernetes/1.md'
 - borg阅读笔记:
     - 'borg(一)': 'learning_container/borg-1.md'
 - 分布式一致性算法:
     - 'Raft': 'distributed_consensus_protocol/raft-1.md'
-theme: flatly
+- OCI:
+    - 'specs RoadMap整理': 'oci/specs-roadmap.md'
+# theme: flatly
+theme: simplex
 repo_url: https://github.com/sctlee/develop-notebook
 repo_name: develop-notebook
