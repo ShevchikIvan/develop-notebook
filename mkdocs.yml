@@ -1,9 +1,9 @@
 site_name: sctlee.io
 pages:
 - 首页: index.md
-- 文档:
-    - '我为什么要诞生': 'docs/why-am-I.md'
-    - '我为什么还在这': 'docs/why-I-still-be-here.md'
+# - 文档:
+#     - '我为什么要诞生': 'docs/why-am-I.md'
+#     - '我为什么还在这': 'docs/why-I-still-be-here.md'
 # - singledog[flask]:
 #     - '做个啥呢': 'singledog/what.md'
 #     - '开发日记（一）': 'singledog/1.md'
@@ -18,6 +18,8 @@ pages:
     - 'borg(一)': 'learning_container/borg-1.md'
 - 分布式一致性算法:
     - 'Raft': 'distributed_consensus_protocol/raft-1.md'
+- Racket学习笔记:
+    - '初识Racket': 'learning-racket/racket-1.md'
 - OCI:
     - 'specs RoadMap整理': 'oci/specs-roadmap.md'
 # theme: flatly
