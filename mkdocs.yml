@@ -12,6 +12,7 @@ pages:
     - '开发日记（一）': 'hazel/1.md'
     - '开发日记（二）': 'hazel/2.md'
     - '开发日记（三）': 'hazel/3.md'
+    - '新的起点（hazel2.0）': 'hazel-2/0.md'
 - Kubernetes学习:
     - '学习笔记（一）': 'kubernetes/1.md'
 - borg阅读笔记:
